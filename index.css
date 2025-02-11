@@ -75,17 +75,12 @@ body{
     font-size: 45px;
     font-weight: 400;
 }
-.main-page-content h1:hover + .main-page-image{
-        transform: rotate(180deg) scale(1.05);    
-    }
+
 
 .main-page-image{
     transition: transform 4s ease;
 }
-.main-page-image:hover{
-    transform: rotate(180deg) scale(1.05); 
-    
-  }
+
 .loged-btn{
     border:2px solid #fc7e2a;
     margin: 5px;
